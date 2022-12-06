@@ -21,7 +21,7 @@ Graduate student with an extensive background in Semiconductor & Software Engine
 ### Publications
 |   Publication | Domain  | Contributors    |   Status  |
 |-----------------|---------|-----------------|-----------|
-|   Dense Art Style Recognition with Self-supervised Ensemble of Auto-Encoding Transformations  |   Computer Vision, Self-Supervision |   [Akshay Joshi](https://akshayjoshi.tech/), [Ankit Agrawal](https://github.com/123ankitagr), [Sushmita Nair](https://github.com/sushmita-nair) |   [Link](https://arxiv.org/abs/2012.03377) |
+|   Dense Art Style Recognition with Self-supervised Ensemble of Auto-Encoding Transformations  |   Computer Vision, Self-Supervision |   [Akshay Joshi](https://akshayjoshi.tech/), [Ankit Agrawal](https://github.com/ankitagr01), [Sushmita Nair](https://github.com/sushmita-nair) |   [Link](https://arxiv.org/abs/2012.03377) |
 |   Hybrid Machine Learning Seminar: Learning like humans with Deep Symbolic Networks  |   Computer Vision, Deep Learning, Symbolic AI |   [Akshay Joshi](https://akshayjoshi.tech/) |   [Link](https://github.com/akshayjoshii/learning_like_humans) |
 
 ### Featured Projects
@@ -33,7 +33,7 @@ Graduate student with an extensive background in Semiconductor & Software Engine
 |   [Event Driven Pedestrian & Vehicle Detection](https://github.com/akshayjoshii/Event-Driven-Pedestrian-Vehicle-Detection)  |   Python, YOLO, OpenCV, NumPy, Docker, TQDM   |   [Akshay Joshi](https://akshayjoshi.tech/), [Puneeth Kouloorkar](https://github.com/PuneethKouloorkar), [Poojitha Vijayanarasimha](https://github.com/Poojithavijay) |
 |   [Open Domain Question Answering with End-to-End Memory Networks](https://github.com/akshayjoshii/Open_Domain_Question_Answering)    |   Python, Keras, NLTK, Deep Neural Networks, NumPy, Knowledge Graphs  |   [Akshay Joshi](https://akshayjoshi.tech/)   |
 |   [Spoken Language Recognition and Exploratory Data Analysis](https://github.com/akshayjoshii/Speech-Recognition) |   Python, Scikit-learn, NumPy, MatplotLib, SciPy  |   [Akshay Joshi](https://akshayjoshi.tech/)   |
-|   [Multi-stage Information Retrieval & Ranking System](https://github.com/akshayjoshii/Statistical-NLP-Information-Retrieval-Project)  |  Python, NLTK, BeautifulSoup4, LXML, BM25, NumPy |   [Akshay Joshi](https://akshayjoshi.tech/), [Ankit Agrawal](https://github.com/123ankitagr)   |
+|   [Multi-stage Information Retrieval & Ranking System](https://github.com/akshayjoshii/Statistical-NLP-Information-Retrieval-Project)  |  Python, NLTK, BeautifulSoup4, LXML, BM25, NumPy |   [Akshay Joshi](https://akshayjoshi.tech/), [Ankit Agrawal](https://github.com/ankitagr01)   |
 
 
 ### Research Portfolio
